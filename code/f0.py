@@ -1,0 +1,1 @@
+leaderboard_run(Leaderboards.Maze, "Solve_Puzzle4", 10000000)

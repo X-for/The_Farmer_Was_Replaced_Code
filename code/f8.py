@@ -1,0 +1,1 @@
+print(not get_cost(Unlocks.Auto_Unlock))
